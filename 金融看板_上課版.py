@@ -6,7 +6,7 @@ import os
 import numpy as np
 #from talib.abstract import SMA,EMA, WMA, RSI, BBANDS, MACD
 #import sys
-# import indicator_f_Lo2_short,datetime, indicator_forKBar_short
+import indicator_f_Lo2_short,datetime, indicator_forKBar_short
 import datetime
 import pandas as pd
 import streamlit as st 
